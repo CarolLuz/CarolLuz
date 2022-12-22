@@ -3,13 +3,13 @@
   
 - 🌱 Learning **Python, SQL and Power BI**  
   
-- 👨‍💻 All of my projects are available at [https://github.com/CarolLuz?tab=repositories](https://github.com/CarolLuz?tab=repositories)  
+- 👨‍💻 All of my projects are available in [my Repositories](https://github.com/CarolLuz?tab=repositories)  
   
 - 💬 Ask me about **my transitioning career!**  
   
 - 📫 You can reach me at **acarol.luz@gmail.com**  
   
-- 📄 [https://www.linkedin.com/in/ana-carolina-luz/](https://www.linkedin.com/in/ana-carolina-luz/)  
+- 📄 [Linkedin profile](https://www.linkedin.com/in/ana-carolina-luz/)  
   
 <h3 align="center">Connect with me:</h3>  
 <p align="center">  
@@ -19,4 +19,4 @@
 <h3 align="center">Languages and Tools:</h3>  
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"></a> </p>  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolluz&langs_count=5)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolluz&langs_count=5)</p>
