@@ -8,12 +8,11 @@
 - 💬 Ask me about **my transitioning career!**  
   
 - 📫 You can reach me at **acarol.luz@gmail.com**  
-  
-- 📄 [Linkedin profile](https://www.linkedin.com/in/ana-carolina-luz/)  
+
   
 <h3 align="center">Connect with me:</h3>  
 <p align="center">  
-<a href="https://linkedin.com/in/carol luz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carol luz" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/ana-carolina-luz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carol luz" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="center">Languages and Tools:</h3>  
